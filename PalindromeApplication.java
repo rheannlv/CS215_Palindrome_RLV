@@ -2,6 +2,7 @@ import java.util.Scanner;
 import java.util.Stack;
 /** 
  * @author RVera
+ * CS215 Assignment 2.2
  * This program uses a stack to determine if a string is a Palindrome
  * or not, comparing the original and reverse string. 
  */
